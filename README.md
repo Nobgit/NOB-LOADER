@@ -1,6 +1,7 @@
 NOB_LOADER (admin panel finder)
 ==================
-cd NOB_LOADER
+<usage>
+cd NOB-LOADER
 ls
 python nob-loader.py
 
